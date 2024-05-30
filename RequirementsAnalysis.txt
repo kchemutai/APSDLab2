@@ -1,0 +1,27 @@
+The following are the Requirements for the Dentist Appointment Application.
+
+- Allow office managers, patients and dentists to create accounts and manager user accounts. 
+- Allow users to view appointments. 
+- Office managers can Register Dentists
+- Office Managers can Enroll new Patients.
+- Patients can Make an Appointment via online form.
+- Patients can Request for an Appointment via phone call.
+- Office Managers can Book an Appointment. 
+- System should Send Confirmation email of appointments.
+- System should Record Appointment
+- Enable users to sign in to the system.
+- Signed in users should view all appointments.
+- Patients can request to Cancel an Appointment 
+- Patients can request to Modify an appointment.
+- The system should prevent submission of appointments for patients with outstanding or unpaid bills.
+- The system should ensure no dentist gets more than 5 appointments. 
+
+
+Essential Objects. 
+- User
+- Dentist
+- Patient
+- Appointment
+- Surgery
+- Address
+
